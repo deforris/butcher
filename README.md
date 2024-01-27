@@ -32,4 +32,5 @@ Additional features to engine. Afterall not all butchers need a store front.
 - displaycase *(testbed)*
   - Allows for proving out the engines internals in a controled environment
 - driver *(installer)*
+- inspector *(qa/asserter)*
 - alarm *(encryption)*
